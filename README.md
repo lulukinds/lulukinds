@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lulukinds
+- 👋 Hi, I’m Luluk Indah Safitri
 - 👀 I’m interested in Cyber Security and Networking
 - 🌱 I’m currently learning Network Programmability
 
