@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Luluk Indah Safitri
-- 👀 I’m interested in Cyber Security and Networking
-- 🌱 I’m currently learning Network Programmability
+interested in Cyber Security and Networking
 
 <!---
 lulukinds/lulukinds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
