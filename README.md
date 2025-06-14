@@ -1,4 +1,4 @@
-interested in Cyber Security and Networking
+hiatus
 
 <!---
 lulukinds/lulukinds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
